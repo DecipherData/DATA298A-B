@@ -16,9 +16,7 @@ Approximately 80% of recyclable household waste is incorrectly discarded, leadin
 
 Project Approaches and Methods -
 
-1. Data Collection:
-
-Data is collected from various online repositories like Trashbox, Mendeley, and Kaggle, focusing on household waste items. A novel category, Homegoods, is introduced to encompass items like furniture and clothing.
+1. Data Collection: Data is collected from various online repositories like Trashbox, Mendeley, and Kaggle, focusing on household waste items. A novel category, Homegoods, is introduced to encompass items like furniture and clothing.
 
 Sources -
 
@@ -30,17 +28,11 @@ Kumsetty, N. V., Nekkare, A. B., S, S. K., & M, A. K. (2022). TrashBox: Trash De
 
 Nnamoko, N. (2023). Waste Classification Dataset. Mendeley Data. https://doi.org/10.17632/n3gtgm9jxj.3
 
-2. Data Preparation:
+2. Data Preparation: Collected data undergoes rigorous preprocessing, including annotation, augmentation, normalization, and feature engineering, to prepare it for training deep learning models.
 
-Collected data undergoes rigorous preprocessing, including annotation, augmentation, normalization, and feature engineering, to prepare it for training deep learning models.
+3. Modeling: Cutting-edge deep learning models like YOLOv8, Xception, MobileNetV2, ResNet-50 are employed for accurate waste detection.
 
-3. Modeling:
-
-Cutting-edge deep learning models like YOLOv8, Xception, MobileNetV2, ResNet-50 are employed for accurate waste detection.
-
-4. Deployment:
-
-An intuitive user interface (UI) is developed for real-time waste classification and recommendations using Anvil. Integrated with Google Maps API and LLM, users receive personalized disposal recommendations.
+4. Deployment: An intuitive user interface (UI) is developed for real-time waste classification and recommendations using Anvil. Integrated with Google Maps API and LLM, users receive personalized disposal recommendations.
 
 
 File Structure -

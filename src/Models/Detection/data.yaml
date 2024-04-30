@@ -1,0 +1,5 @@
+train: /content/drive/MyDrive/Data298AandB/Grounding_Dino_new/data/train
+val: /content/drive/MyDrive/Data298AandB/Grounding_Dino_new/data/val
+
+nc: 11
+names: ['cardboard','paper','plastic','metal','medical','clothes','furniture','shoes','biowaste','glass','e-waste']

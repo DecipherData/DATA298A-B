@@ -21,10 +21,13 @@ Data is collected from various online repositories like Trashbox, Mendeley, and 
 
 Sources -
 
-Garbage Classification (12 classes). (2021, January 24). Kaggle. https://www.kaggle.com/datasets/mostafaabla/garbage-classification \n
-Gurumurthy, S., & Manga, S. (2020). Furniture Identification. Kaggle. https://www.kaggle.com/competitions/day-3-kaggle-competition \n
-Kumsetty, N. V., Nekkare, A. B., S, S. K., & M, A. K. (2022). TrashBox: Trash Detection and Classification using Quantum Transfer Learning. 2022 31st Conference of Open Innovations Association (FRUCT). https://doi.org/10.23919/fruct54823.2022.9770922 \n
-Nnamoko, N. (2023). Waste Classification Dataset. Mendeley Data. https://doi.org/10.17632/n3gtgm9jxj.3 \n
+Garbage Classification (12 classes). (2021, January 24). Kaggle. https://www.kaggle.com/datasets/mostafaabla/garbage-classification
+
+Gurumurthy, S., & Manga, S. (2020). Furniture Identification. Kaggle. https://www.kaggle.com/competitions/day-3-kaggle-competition
+
+Kumsetty, N. V., Nekkare, A. B., S, S. K., & M, A. K. (2022). TrashBox: Trash Detection and Classification using Quantum Transfer Learning. 2022 31st Conference of Open Innovations Association (FRUCT). https://doi.org/10.23919/fruct54823.2022.9770922
+
+Nnamoko, N. (2023). Waste Classification Dataset. Mendeley Data. https://doi.org/10.17632/n3gtgm9jxj.3
 
 Data Preparation:
 

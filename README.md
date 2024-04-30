@@ -13,6 +13,7 @@ Instructor: Dr. Ming Hwa Wang
 
 Approximately 80% of recyclable household waste is incorrectly discarded, leading to landfill congestion and increased carbon emissions. This project addresses this issue by developing a system for classifying household waste and providing instructions on recycling and safe disposal. Unlike previous research focusing on industrial waste, this project emphasizes household items. The data, sourced from various repositories and expanded to include new categories, undergoes meticulous preprocessing. Advanced models like InceptionResNetv2, YOLOv8, MobileNetv2, ResNet-50, and Xception are employed for accurate waste categorization. Integrated with a Language Model (LLM), the system furnishes recommendations for waste management based on item classification, aiming to positively impact sustainable waste management at the household level.
 
+
 Project Approaches and Methods -
 
 Data Collection:
@@ -41,7 +42,8 @@ Deployment:
 
 An intuitive user interface (UI) is developed for real-time waste classification and recommendations using Anvil. Integrated with Google Maps API and LLM, users receive personalized disposal recommendations.
 
-File Structure
+
+File Structure -
 
 project_root/
 

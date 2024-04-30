@@ -23,13 +23,23 @@ An intuitive user interface (UI) is developed for real-time waste classification
 File Structure
 
 project_root/
+
 ├── docs/
+
 │   ├── Presentation/
+
 │   ├── Workbooks/
+
 │   └── Report/
+
 └── src/
+
     ├── Data Processing/
+    
     └── Models/
+    
         ├── Augmentation/
+        
         ├── Classification/
+        
         └── Detection/

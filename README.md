@@ -16,7 +16,7 @@ Approximately 80% of recyclable household waste is incorrectly discarded, leadin
 
 Project Approaches and Methods -
 
-Data Collection: Data is collected from various online repositories like Trashbox, Mendeley, and Kaggle, focusing on household waste items. A novel category, Homegoods, is introduced to encompass items like furniture and clothing.
+Data Collection: Data is collected from various online repositories like Trashbox, Mendeley, and Kaggle, focusing on household waste items. A novel category, Homegoods, is introduced to encompass items like furniture, shoes, and clothing.
 
 Sources -
 
